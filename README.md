@@ -1,2 +1,2 @@
 # CodingFlow
-it always good to have a standardized the coding rules
+it always good to have some standardized coding rules
