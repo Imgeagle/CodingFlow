@@ -5,7 +5,7 @@ indentation `2 spaces`
 indentation type `tab`
 
 ### javascript
-
+- refer to [usejsdoc](http://usejsdoc.org/tags-param.html)
 - put `'use strict';` on top.
 - use single qoute for string.
 - function brackets put as the sample below.
