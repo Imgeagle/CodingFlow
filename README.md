@@ -1,6 +1,9 @@
 # CodingFlow
 it always good to have some standardized coding rules
 
+### Target
+use `jshint`, `JSHint` and .etc to create auto checker based on these rules
+
 indentation `2 spaces`
 indentation type `tab`
 
