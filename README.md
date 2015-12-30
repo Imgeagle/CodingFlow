@@ -4,10 +4,15 @@ it always good to have some standardized coding rules
 indentation `2 spaces`
 indentation type `tab`
 
-### function
+### javascript
+
+- put `'use strict';` on top
+- use single qoute for string
+- function brackets put as the sample below
+
 ```javascript
 function {
-  ...
+  var string = 'test string';
 }
 ```
 
