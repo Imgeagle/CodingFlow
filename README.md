@@ -17,6 +17,7 @@ indentation type `tab`
 
 ```javascript
 /**
+ * @flow
  * @param {Object} arg1 - user credentials.
  * @param {boolean} arg2 - login for 1 month.
  * @return boolean
